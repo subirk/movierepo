@@ -1,0 +1,1 @@
+I am about to commit my first file in Git!
